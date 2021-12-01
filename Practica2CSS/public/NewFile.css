@@ -1,0 +1,47 @@
+@charset "UTF-8";
+.h_1{
+	background-color: #00ffff;
+	 text-align: center;
+	
+}
+.h_2{
+	
+	border-bottom: blue 10px solid;
+	border-top: blue 10px solid;
+	
+	
+}
+:hover.class1{
+	
+	 opacity: 0.5;
+	
+}
+#repeat{
+	background: url("valencia_antigua.jpg");
+	background-repeat: repeat;
+	width: 1000px;
+	color: blue;
+	
+}
+:hover#repeat{
+	background: url("valencia_antigua.jpg");
+	width: 30%;
+	height: 100%;
+	color: blue;
+	
+}
+.text{
+	opacity: 1;
+	
+}
+:hover.text{
+	opacity: 0;
+	
+}
+.class3{
+	
+  	 text-align:center;
+ 	 background-color: #00ffff;
+	 
+	
+}
